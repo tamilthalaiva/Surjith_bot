@@ -9,7 +9,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ✯ updates channel: <a href=https://t.me/+zbvmzFXmSgU1YmY9>CLICK HERE</a>
-✯ Subscribe my telegram channel: <a href=<a https://t.me/Tamilthalaiva3>CLICK HERE</a></b>""" 
+✯ Subscribe my telegram channel: <a href=https://t.me/Tamilthalaiva3>CLICK HERE</a></b>""" 
     SOURCE_TXT = """<b>NOTE:</b>
 - <b>Movies house is a open source project. 
 - Source 👉 <a href=https://t.me/malik_bots/7>CLICK HERE</a></b>
