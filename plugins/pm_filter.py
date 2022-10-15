@@ -111,7 +111,7 @@ async def next_page(bot, query):
             [InlineKeyboardButton("𝗖𝗹𝗼𝘀𝗲", callback_data="close_data")]
         )
     btn.insert(0, [
-        InlineKeyboardButton(text="⚠️ 𝐉𝐨𝐢𝐧 𝐌𝐨𝐯𝐢𝐞𝐬 Group ⚠️", url="https://t.me/+gXuMKXOWm1UyOTdl")
+        InlineKeyboardButton(text="⚠️ 𝐉𝐨𝐢𝐧 𝐌𝐨𝐯𝐢𝐞𝐬 Group ⚠️", url="https://t.me/+fyhobqdXQDEzNjc9")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -412,12 +412,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('✳️ Add Me To Your Groups ✳️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHANNEL 💠', url='https://t.me/+ZeZNvt43B4o3ZmJl'),
-            InlineKeyboardButton('☎️ CONTACT ME', url='https://t.me/sahid_malik'),
-            InlineKeyboardButton('💠 UPDATES 💠', url='https://t.me/m_house786')
+            InlineKeyboardButton('💠 CHANNEL 💠', url='https://t.me/+zbvmzFXmSgU1YmY9'),
+            InlineKeyboardButton('☎️ CONTACT ME', url='https://t.me/Tamil_Thalaiva'),
+            InlineKeyboardButton('💠 UPDATES 💠', url='https://t.me/+SezEwPMIqT04MDk1')
             ],[
             InlineKeyboardButton('♻️ Help ♻️', callback_data='help'),
-            InlineKeyboardButton('🌷Join my group', url='https://t.me/+gXuMKXOWm1UyOTdl'),
+            InlineKeyboardButton('🌷Join my group', url='https://t.me/+fyhobqdXQDEzNjc9'),
             InlineKeyboardButton('♻️ About ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ Subscribe my YouTube channel ✅', url='https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A')
